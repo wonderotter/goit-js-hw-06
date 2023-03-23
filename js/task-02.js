@@ -17,3 +17,5 @@ const itemsRef = ingredients.map((ingredient) => {
 });
 
 ingredientsRef.append(...itemsRef);
+
+
